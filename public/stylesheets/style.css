@@ -1,0 +1,28 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  color: cyan;
+  background-color: rgba(94, 94, 94, 0.842);
+  text-align: center;
+  text-decoration-line: underline;
+}
+
+a {
+  color: #00B7FF;
+  text-align: center;
+}
+
+th {
+  background-color: rgba(94, 94, 94, 0.842);
+  padding: 1em;
+  text-align: center;
+  border: 1px solid cyan;
+  padding: 1em;
+ }
+
+ td {
+  border: 1px solid cyan;
+  width: 200px;
+  padding: 1em;
+  text-align: center;
+ }
